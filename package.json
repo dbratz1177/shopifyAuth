@@ -1,0 +1,11 @@
+{
+  "name": "shopifyauth",
+  "version": "1.0.0",
+  "description": "for verifying shopify headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Dane Louis Bratz",
+  "license": "ISC"
+}
